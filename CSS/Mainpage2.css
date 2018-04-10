@@ -1,0 +1,79 @@
+body {
+    padding-top: 4rem;
+}
+.first-element {
+    text-align: center;
+    height: 100vh;
+}
+
+.jumbotron {
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+#intro{
+    background-image: url("../IMG/Welcome.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#endlicht{
+    background-image: url("../IMG/Endlicht.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#main-logo {
+    font-size: 4rem;
+}
+
+.HAB, .Endlicht {
+    position:relative;
+    background-size:cover;
+    background: no-repeat fixed center;
+    height: 50vh;
+
+}
+
+.HAB {
+    background-image: url("../IMG/HAB.jpg");
+    background-size: cover;
+    min-height: 100%;
+}
+
+.Endlicht {
+    background-image: url("../IMG/Endlicht.jpeg");
+    background-size: cover;
+    min-height: 100%;
+}
+
+.ptext{
+    position: absolute;
+    top:50%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.section{
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.section-light{
+    background-color: white;
+}
+
+.ptext .border{
+    background-color: black;
+    color: white;
+    opacity: 0.6;
+    padding: 20px;
+}
