@@ -1,5 +1,5 @@
 body {
-    padding-top: 4rem;
+    padding-top: 3rem;
     font-family: 'Open Sans', sans-serif;
 
 }
@@ -69,19 +69,6 @@ body {
     background-image: url("../IMG/Endlicht.jpeg");
 }
 
-.goodbye {
-    background-image: url("../IMG/Welcome.jpg");
-    background-size: cover;
-    height: 100%;
-    min-height: 80vh;
-}
-
-#endHeader {
-    text-align: center;
-    font-size: 4rem;
-    padding-top: 2rem;
-}
-
 .ptext {
     position: absolute;
     top: 50%;
@@ -120,4 +107,12 @@ body {
     color: white;
     opacity: 0.6;
     padding: 1%;
+}
+
+#blueLink a{
+    color: #005cbf;
+}
+
+#footerTop{
+    padding-top: 1rem;
 }
