@@ -108,3 +108,36 @@ body {
 #footer {
     padding-top: 1rem;
 }
+
+.welcome{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.first-element2{
+    position: relative;
+    background-size: cover;
+    background: no-repeat fixed center;
+    height: 50vh;
+    background-size: cover;
+    min-height: 100%;
+    background-image: url("../IMG/bg1.jpg");
+}
+
+.welcome .border2{
+    background-color: black;
+    color: white;
+    opacity: 0.6;
+    padding: 1%;
+}
+
+#welcomeIMG{
+    padding-bottom: 5%;
+}
