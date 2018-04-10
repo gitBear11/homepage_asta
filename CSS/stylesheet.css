@@ -37,7 +37,7 @@ body {
 
 }
 
-.HAB {
+.hab {
     background-image: url("../IMG/HAB.jpg");
 }
 
@@ -57,7 +57,7 @@ body {
     background-image: url("../IMG/marketing.jpeg");
 }
 
-.Endlicht {
+.endlicht {
     background-image: url("../IMG/Endlicht.jpeg");
 }
 
@@ -101,10 +101,10 @@ body {
     padding: 1%;
 }
 
-#blueLink a{
-    color: #005cbf;
+.blueLink a {
+    color: #12A6DC;
 }
 
-#footer{
+#footer {
     padding-top: 1rem;
 }
