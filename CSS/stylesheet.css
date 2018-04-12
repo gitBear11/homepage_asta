@@ -10,11 +10,6 @@ body {
     padding-bottom: 10%;
 }
 
-.jumbotron {
-    border-radius: 0;
-    margin-bottom: 0;
-}
-
 #intro {
     background-image: url("../IMG/bg1.jpg");
     background-repeat: no-repeat;
@@ -41,15 +36,6 @@ body {
     background-image: url("../IMG/HAB.jpg");
 }
 
-#habList1 {
-    text-align: left;
-    margin-top: -7%;
-}
-
-#habText {
-    text-align: center;
-}
-
 .kultur {
     background-image: url("../IMG/kultur.jpeg");
 }
@@ -70,13 +56,9 @@ body {
     background-image: url("../IMG/Endlicht.jpeg");
 }
 
-#pricelist {
-    text-align: left;
-}
-
 .ptext {
     position: absolute;
-    top: 50%;
+    top: 40%;
     width: 100%;
     text-align: center;
     color: white;
@@ -103,6 +85,10 @@ body {
     text-align: center;
 }
 
+.refP2{
+    padding-top: 0 !important;
+}
+
 .section-light {
     background-color: white;
 }
@@ -114,6 +100,15 @@ body {
     padding: 1%;
 }
 
+.centerlist{
+    display: table;
+    margin: auto;
+    text-align: left;
+    margin-top: -5%;
+}
+
+
+
 .blueLink a {
     color: #12A6DC;
 }
@@ -122,7 +117,7 @@ body {
     padding-top: 1rem;
 }
 
-.welcome{
+.welcome {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -134,7 +129,7 @@ body {
     opacity: 1;
 }
 
-.first-element2{
+.first-element2 {
     position: relative;
     background-size: cover;
     background: no-repeat fixed center;
@@ -144,13 +139,13 @@ body {
     background-image: url("../IMG/bg1.jpg");
 }
 
-.welcome .border2{
+.welcome .border2 {
     background-color: black;
     color: white;
     opacity: 0.6;
     padding: 1%;
 }
 
-#welcomeIMG{
+#welcomeIMG {
     padding-bottom: 5%;
 }
