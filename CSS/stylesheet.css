@@ -41,6 +41,15 @@ body {
     background-image: url("../IMG/HAB.jpg");
 }
 
+#habList1 {
+    text-align: left;
+    margin-top: -7%;
+}
+
+#habText {
+    text-align: center;
+}
+
 .kultur {
     background-image: url("../IMG/kultur.jpeg");
 }
@@ -59,6 +68,10 @@ body {
 
 .endlicht {
     background-image: url("../IMG/Endlicht.jpeg");
+}
+
+#pricelist {
+    text-align: left;
 }
 
 .ptext {
